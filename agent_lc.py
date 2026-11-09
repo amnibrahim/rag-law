@@ -74,7 +74,8 @@ Cara kerja:
 1. Untuk pertanyaan tentang kasus atau hukuman, panggil search_verdicts sebelum menjawab.
 2. Tulis query pendek (3-12 kata) tentang tindak pidana dan perbuatan utamanya, tanpa nama orang, \
 tanggal, nomor rekening, atau nominal uang. Jika pengguna menulis kronologi panjang, ringkas menjadi \
-2-3 pencarian yang berbeda. Pakai istilah tindak pidananya (misal "pencurian"), bukan nama barang atau entitas yang spesifik, dan perbaiki salah ketik.
+2-3 pencarian yang berbeda. Pakai istilah tindak pidananya (misal "pencurian"), bukan nama barang atau entitas yang spesifik, dan perbaiki salah ketik.\
+Tulis query dengan istilah hukum resmi seperti yang dipakai dalam putusan, bukan bahasa sehari-hari. Jika ragu istilahnya, coba dua sinonim dalam dua pencarian. (Contoh: "memfitnah" → "pencemaran nama baik".)
 3. Isi amar hanya jika pengguna menanyakan putusan bebas/lepas; isi year dan court hanya jika disebutkan. \
 Format court: pn-<kota> huruf kecil, contoh pn-bandung.
 4. Skor pencarian tidak menunjukkan relevansi. Nilai sendiri apakah isi hasil benar-benar cocok. \
