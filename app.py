@@ -127,7 +127,7 @@ with st.sidebar:
     # st.caption("Dataset: indo-law (Nuranti, Yulianti & Husin, 2022, *Computers* 11(6), 88). "
     #            "[github.com/ir-nlp-csui/indo-law](https://github.com/ir-nlp-csui/indo-law)")
     st.divider()
-    st.caption("[Gmail](mailto:amn.ibrahim3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-ibra/) | [Dataset](https://github.com/ir-nlp-csui/indo-law)")
+    st.caption("[Gmail](mailto:amn.ibrahim3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-ibra/) | [GitHub](https://github.com/amnibrahim/rag-law) | [Dataset](https://github.com/ir-nlp-csui/indo-law)")
     
 # ---- chat ----
 st.title("RAG Law")
