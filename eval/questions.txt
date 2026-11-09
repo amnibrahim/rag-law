@@ -1,0 +1,20 @@
+1|tindak_pidana|Apa hukuman untuk pencurian sepeda motor di pekarangan rumah?
+2|tindak_pidana|Berapa hukuman untuk penipuan jual beli online?
+3|tindak_pidana|Hukuman untuk pengguna narkotika yang tertangkap membawa sabu dalam jumlah kecil
+4|tindak_pidana|Hukuman untuk penggelapan uang perusahaan oleh karyawan
+5|tindak_pidana|Hukuman untuk penganiayaan yang menyebabkan luka berat
+6|tindak_pidana|Putusan perkara perjudian togel
+7|tindak_pidana|Hukuman pencemaran nama baik lewat media sosial
+8|tindak_pidana|Hukuman korupsi dana desa oleh kepala desa
+9|pasal|Putusan dengan pasal 378 KUHP tentang penipuan
+10|pasal|Putusan dengan pasal 362 KUHP tentang pencurian
+11|pasal|Putusan dengan pasal 351 ayat 1 KUHP tentang penganiayaan
+12|faktor|Hal-hal yang meringankan terdakwa penggelapan yang mengembalikan uang korban
+13|faktor|Hal-hal yang memberatkan terdakwa pencurian dengan pemberatan pada malam hari
+14|bebas_lepas|Terdakwa diputus bebas karena unsur pasal tidak terbukti
+15|bebas_lepas|Kapan terdakwa diputus lepas dari segala tuntutan hukum?
+16|fakta_serupa|Terdakwa membawa 5 gram sabu dan mengaku hanya pengguna, bukan pengedar
+17|kronologi|Saya membeli telepon genggam dari penjual di media sosial dan sudah mentransfer uang, tetapi barang tidak dikirim dan nomor penjual tidak aktif. Apa hukuman pada kasus serupa?
+18|kronologi|Karyawan saya memegang uang setoran harian toko. Selama tiga bulan ia tidak menyetorkan sebagian uang dan memakainya untuk keperluan pribadi. Apa hukuman pada kasus serupa?
+19|kronologi|Dua orang bertengkar di warung karena tersinggung, salah satunya memukul wajah lawannya hingga hidungnya patah. Apa hukuman pada kasus serupa?
+20|fakta_serupa|Hukuman bagi suami yang memukul istrinya hingga luka
